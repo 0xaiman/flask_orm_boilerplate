@@ -1,3 +1,4 @@
+Here's a `README.md` tailored for your Flask backend boilerplate, focusing on how to use it as a backend template and guidance on where to start, modify, and implement business logic.
 
 ```markdown
 # Flask Blueprint Boilerplate
@@ -139,3 +140,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 This boilerplate is designed to provide a solid foundation for your Flask applications, making it easy to extend and scale as your project grows. Happy coding!
 ```
+
+Feel free to adjust any sections as needed or add any additional details that might be specific to your use case!
