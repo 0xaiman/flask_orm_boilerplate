@@ -1,0 +1,70 @@
+=================================CONTENTS FOR .gitgnore=================================================
+# Byte-compiled files
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Configuration file with sensitive information
+config.py
+
+# Flask application files
+app/
+
+# Migration files
+migrations/
+
+# Test files
+tests/
+
+# pytest cache directories
+pytest-cache-files-b5g96dpk/
+pytest-cache-files-ja305jge/
+pytest-cache-files-p0_42hba/
+
+# IDE-specific files (optional)
+*.idea/
+*.vscode/
+
+# MacOS system files (optional)
+.DS_Store
+
+
+
+========================================================================================================
+
+
+===================================CONTENTS for DOCKERIGNORE=============================================
+
+# Ignore Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Ignore virtual environment
+venv/
+
+# Ignore local configuration files
+config.py
+
+# Ignore migrations and tests (if not needed in the container)
+migrations/
+tests/
+
+# Ignore Docker-related files (optional)
+docker-compose.yml
+
+# Ignore IDE-specific files (optional)
+.idea/
+.vscode/
+
+# Ignore system files (optional)
+.DS_Store
+
+
+
+============================================================================================================
+

@@ -1,0 +1,29 @@
+# Byte-compiled files
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Configuration file with sensitive information
+config.py
+
+# Flask application files
+app/
+
+# Migration files
+migrations/
+
+# Test files
+tests/
+
+# pytest cache directories
+pytest-cache-files-b5g96dpk/
+pytest-cache-files-ja305jge/
+pytest-cache-files-p0_42hba/
+
+# IDE-specific files (optional)
+*.idea/
+*.vscode/
+
+# MacOS system files (optional)
+.DS_Store
